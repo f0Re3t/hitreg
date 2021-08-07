@@ -1,2 +1,2 @@
 # hitreg
-Server Damage System (SAMP)
+This shit was written a long time ago, back in 2019 as an analogue of weapon-config and hitreg from Gammix. The system also uses the pawn.raknet plugin. The advantage is that the server damage is processed on the player's standard hp bar. The bug with the installation of 0 hp is taken into account and if the player gets into it , the system will spawn him. The code is not the best, but it seems to work!
